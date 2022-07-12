@@ -32,6 +32,7 @@ a, a:hover, a:visited {
     align-items: center;
 }
 
+
 .dsmeta-logo-container img {
     width: 235px;
 }
@@ -110,7 +111,7 @@ a, a:hover, a:visited {
 
 .dsmeta-sales-table tr {
     height: 74px;
-    border-top: 1px solid #5F6E82;
+    border-bottom: 1px solid #5F6E82;
 }
 
 .dsmeta-sales-table tbody tr:hover>td {
